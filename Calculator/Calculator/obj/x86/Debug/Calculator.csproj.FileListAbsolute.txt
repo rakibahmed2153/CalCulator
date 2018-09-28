@@ -1,0 +1,27 @@
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+F:\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.csprojAssemblyReference.cache
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+F:\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+F:\Calculator\Calculator\bin\Debug\Calculator.application
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.exe.manifest
+F:\Calculator\Calculator\obj\x86\Debug\Calculator.application
